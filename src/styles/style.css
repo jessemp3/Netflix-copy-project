@@ -129,9 +129,7 @@ main{
 
 .title-hero-section{
     display: flex;
-
     align-items: center;
-    justify-content: start;
 }
 
 .hero-section h2{
@@ -140,6 +138,8 @@ main{
     font-weight: 400;
     font-size: 9rem;
     display: flex;
+    align-items: start;
+    margin: -40px 0 0 -8px;
     justify-content: start;
 }
 
